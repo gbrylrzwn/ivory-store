@@ -1,3 +1,4 @@
 # ivory-store
-the best online store for computer hardware
-The site url is ivory.co.il
+The best online store for computer hardware.
+The website of the store is:
+ivory.co.il
